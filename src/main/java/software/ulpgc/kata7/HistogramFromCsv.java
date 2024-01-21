@@ -1,4 +1,4 @@
-package software.ulpgc.kata3;
+package software.ulpgc.kata7;
 
 import java.io.*;
 import java.util.ArrayList;
